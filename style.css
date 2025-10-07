@@ -17,11 +17,11 @@ body {
 }
 h1 {
   font-size: 30px;
-  color: rgb(171, 191, 84);
+  color: rgb(191, 84, 186);
   margin-bottom: 20px;
 }
 button {
-  background-color: rgb(171, 191, 84);
+  background-color: rgb(191, 84, 186);
   color: rgb(255, 255, 255);
   border-radius: 5px;
   padding: 10px 20px;
